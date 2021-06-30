@@ -1,4 +1,3 @@
-# Email-Builder-Application-Java8
 
 # This application was built following the below requirments.
 
